@@ -1,0 +1,3 @@
+MSBlobBuilder.exports = {
+    lintOnSave:'warning',
+}
